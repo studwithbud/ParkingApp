@@ -1,2 +1,0 @@
-# ParkingApp
-Created with CodeSandbox

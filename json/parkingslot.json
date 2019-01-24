@@ -1,0 +1,34 @@
+{
+  "parkingData": [
+    {
+      "organizationId": "1",
+      "slot": [
+        {
+          "vehicleType": "Two Wheeler",
+          "size": 20,
+          "slotToAllocate": 1
+        },
+        {
+          "vehicleType": "Four Wheeler",
+          "size": 15,
+          "slotToAllocate": 1
+        }
+      ]
+    },
+    {
+      "organizationId": "2",
+      "slot": [
+        {
+          "vehicleType": "Two Wheeler",
+          "size": 25,
+          "slotToAllocate": 1
+        },
+        {
+          "vehicleType": "Four Wheeler",
+          "size": 14,
+          "slotToAllocate": 1
+        }
+      ]
+    }
+  ]
+}
